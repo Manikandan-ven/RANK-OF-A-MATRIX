@@ -29,5 +29,5 @@ print(solution)
 ![Screenshot 2024-11-27 111506](https://github.com/user-attachments/assets/1e5497a4-0e99-4ec1-be65-b200425c7329)
 
 ## Result:
-Thus the rank for the given matrix is successfully solved by  using a python program.
+Thus the rank for the given matrix is successfully solved by using a python program
 
